@@ -1,1 +1,10 @@
-{}
+{
+  "auth": {
+    "practice40e75822": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
